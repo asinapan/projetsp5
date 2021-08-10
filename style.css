@@ -1,1 +1,5 @@
-background: content-box radial-gradient(crimson, skyblue);
+<style type="text/css">
+  body {
+    color: ghostwhite;
+    background-color: darkseagreen}
+  </style>
